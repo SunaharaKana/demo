@@ -24,15 +24,10 @@
 
 
 本当は人間の手の形からラベルを検出させ、じゃんけんをさせたいところだが、デフォルトのラベル検出だとうまくいかない。
-![image](https://github.com/SunaharaKana/demo/assets/103554924/bf042b08-6b20-44ba-ac4a-7843ad426fa5)
-![image](https://github.com/SunaharaKana/demo/assets/103554924/66cdaaa0-7b8d-4ba8-b87a-5c804849637f)
-![image](https://github.com/SunaharaKana/demo/assets/103554924/69e6d25e-d57a-4a61-92d5-16c49f78984c)
 
-
-
-<img src="(https://github.com/SunaharaKana/demo/assets/103554924/bf042b08-6b20-44ba-ac4a-7843ad426fa5" width="80%" />
-<img src="https://github.com/SunaharaKana/demo/assets/103554924/66cdaaa0-7b8d-4ba8-b87a-5c804849637fb" width="80%" />
-<img src="https://github.com/SunaharaKana/demo/assets/103554924/69e6d25e-d57a-4a61-92d5-16c49f78984c" width="80%" />
+<img src="https://github.com/SunaharaKana/demo/blob/master/2023-07-16%20(4).png" width="80%" />
+<img src="https://github.com/SunaharaKana/demo/blob/master/2023-07-16%20(2).png" width="80%" />
+<img src="https://github.com/SunaharaKana/demo/blob/master/2023-07-16%20(3).png" width="80%" />
 
 背景のcomputerが検出されてしまったり、Body Partと検出されてしまったりしている。
 
