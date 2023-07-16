@@ -21,10 +21,15 @@
 
 
 本当は人間の手の形からラベルを検出させ、じゃんけんをさせたいところだが、デフォルトのラベル検出だとうまくいかない。
+![image](https://github.com/SunaharaKana/demo/assets/103554924/bf042b08-6b20-44ba-ac4a-7843ad426fa5)
+![image](https://github.com/SunaharaKana/demo/assets/103554924/66cdaaa0-7b8d-4ba8-b87a-5c804849637f)
+![image](https://github.com/SunaharaKana/demo/assets/103554924/69e6d25e-d57a-4a61-92d5-16c49f78984c)
 
-<img src="https://github.com/SunaharaKana/demo/assets/103554924/9f41202e-3cb9-40e1-974b-0b63e6879ab1" width="80%" />
-<img src="https://github.com/SunaharaKana/demo/assets/103554924/88a69bd5-b268-432d-b49f-6a487f7d27bb" width="80%" />
-<img src="https://github.com/SunaharaKana/demo/assets/103554924/47b071d1-0f28-4150-a43f-b775e9c67aef" width="80%" />
+
+
+<img src="(https://github.com/SunaharaKana/demo/assets/103554924/bf042b08-6b20-44ba-ac4a-7843ad426fa5" width="80%" />
+<img src="https://github.com/SunaharaKana/demo/assets/103554924/66cdaaa0-7b8d-4ba8-b87a-5c804849637fb" width="80%" />
+<img src="https://github.com/SunaharaKana/demo/assets/103554924/69e6d25e-d57a-4a61-92d5-16c49f78984c" width="80%" />
 
 背景のcomputerが検出されてしまったり、Body Partと検出されてしまったりしている。
 
@@ -50,5 +55,16 @@
 ![image](https://github.com/SunaharaKana/demo/assets/103554924/02094d67-0c3a-4b1a-a699-0e708441be0d)
 
 [結果]
+
+チョキ、パーに関しても、同様にうまく検出できている。
+
+<img src="https://github.com/SunaharaKana/demo/assets/103554924/160471ee-44fb-424b-b553-5aff7778dd53" width="30%" />
+
+![image](https://github.com/SunaharaKana/demo/assets/103554924/edb614f0-68e2-4c52-bf02-9e0df7174c63)
+
+<img src="https://github.com/SunaharaKana/demo/assets/103554924/6b928b73-7887-4f99-8754-4a43fef74a37" width="30%" />
+
+![image](https://github.com/SunaharaKana/demo/assets/103554924/b1d354a5-ca33-48e0-876b-454376358fd8)
+
 
 
