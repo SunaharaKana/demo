@@ -40,30 +40,13 @@
 
 すると以下のようになる。
 
-<img src="https://github.com/SunaharaKana/demo/assets/103554924/525f33f3-b5b2-4bf7-9dd9-3e7ef3beabbc" width="30%" />
+<img src="https://github.com/SunaharaKana/demo/blob/master/2023-07-16%20(5).png" />
 
-[2番目のフォーム]
+<img src="https://github.com/SunaharaKana/demo/blob/master/2023-07-16%20(6).png"/>
 
+<img src="https://github.com/SunaharaKana/demo/blob/master/2023-07-16%20(7).png" />
 
-<img src="https://github.com/SunaharaKana/demo/assets/103554924/a9759e74-6f91-4796-b204-160a140be916" width="30%" />
-
-[グー3.jpg]
-
-
-![image](https://github.com/SunaharaKana/demo/assets/103554924/02094d67-0c3a-4b1a-a699-0e708441be0d)
-
-[結果]
-
-チョキ、パーに関しても、同様にうまく検出できている。
-
-<img src="https://github.com/SunaharaKana/demo/assets/103554924/160471ee-44fb-424b-b553-5aff7778dd53" width="30%" />
-
-![image](https://github.com/SunaharaKana/demo/assets/103554924/edb614f0-68e2-4c52-bf02-9e0df7174c63)
-
-<img src="https://github.com/SunaharaKana/demo/assets/103554924/6b928b73-7887-4f99-8754-4a43fef74a37" width="30%" />
-
-![image](https://github.com/SunaharaKana/demo/assets/103554924/b1d354a5-ca33-48e0-876b-454376358fd8)
-
+使用した画像は上で示したものである。それぞれうまく検出できている。
 
 # おまけ
 おまけ用のデモとして、簡単な顔認証を実装した。
