@@ -59,9 +59,9 @@
 
 ・一致していた場合はsuccess、失敗した場合はfailureを返す
 
-![image](https://github.com/SunaharaKana/demo/assets/103554924/724dc06b-0350-4b8b-b026-a03552395664)
+![image](https://github.com/SunaharaKana/demo/blob/master/2023-07-16%20(8).png)
 
-![image](https://github.com/SunaharaKana/demo/assets/103554924/5e00e940-a049-4a7a-bf29-f10d9581ea0f)
+![image](https://github.com/SunaharaKana/demo/blob/master/2023-07-16%20(9).png)
 
 
 
