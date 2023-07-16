@@ -67,4 +67,20 @@
 ![image](https://github.com/SunaharaKana/demo/assets/103554924/b1d354a5-ca33-48e0-876b-454376358fd8)
 
 
+# おまけ
+おまけ用のデモとして、簡単な顔認証を実装した。
+
+やり方は以下の通りである。
+
+・S3バケットに顔写真をいれる
+
+・Rekognitionの顔の比較を用い、S3バケットにある顔写真と、送信した顔写真が一致しているかどうかを見る
+
+・一致していた場合はsuccess、失敗した場合はfailureを返す
+
+![image](https://github.com/SunaharaKana/demo/assets/103554924/724dc06b-0350-4b8b-b026-a03552395664)
+
+![image](https://github.com/SunaharaKana/demo/assets/103554924/5e00e940-a049-4a7a-bf29-f10d9581ea0f)
+
+
 
